@@ -1,8 +1,8 @@
 # projest start on 25-03-2022
-# creator Freeman H.
+# author Freeman
 project_name = "Systemic Files Renamer"
 project_version = "1.0.0"
-project_author = "Freeman H."
+project_author = "Freeman"
 project_start_date = "25-03-2022"
 project_last_update = "26-03-2022"
 
